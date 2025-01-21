@@ -69,10 +69,6 @@ An e-commerce platform for showcasing and selling embroidery products, designed 
 - **Payment Gateway**: Integrate payment options for a complete e-commerce experience.
 - **Search and Filter**: Improve product search and category filtering.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for review.
