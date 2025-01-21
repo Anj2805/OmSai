@@ -1,7 +1,3 @@
-Here’s a README file for your **OmSai Embroideries E-Commerce Website**:
-
----
-
 # OmSai Embroideries E-Commerce Website
 
 An e-commerce platform for showcasing and selling embroidery products, designed to provide a seamless shopping experience. The project combines a responsive frontend with a robust backend to manage product data efficiently.
@@ -80,7 +76,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for review.
-
----
-
-Feel free to adapt this README further to match your exact project requirements!
